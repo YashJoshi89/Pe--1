@@ -5,6 +5,5 @@ seaborn
 pyparsing
 streamlit==1.18.0
 streamlit-option-menu==0.3.2
-tensorflow==2.9.1
 protobuf==3.19.6
 pickle-mixin==1.0.2
